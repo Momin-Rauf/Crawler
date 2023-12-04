@@ -2,7 +2,7 @@ Assignment No 2 Documentation
 NAME: MUHAMMAD MOMIN RAUF
 CMS 366523
 SECTION BESE-12A
-GITHUB REPOSITORY LINK :
+
 
 Task: Implement a Web Spider(Crawler) with all the mentioned requirements given in the assignment
 •	Tools used:
